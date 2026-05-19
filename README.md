@@ -58,4 +58,5 @@ Make sure you have Python 3 installed.
 Run the program with:
 
 ```bash
-p
+python Ecdiof_1
+
