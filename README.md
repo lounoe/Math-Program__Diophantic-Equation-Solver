@@ -59,4 +59,19 @@ Run the program with:
 
 ```bash
 python Ecdiof_1
+```
+---
 
+## 🛠️ Technologies used
+
+- Python 3
+- Tkinter (GUI)
+- math.gcd
+- Extended Euclidean Algorithm
+
+---
+
+## 👨‍💻 Author
+
+Lounoe
+GitHub: https://github.com/Lounoe
